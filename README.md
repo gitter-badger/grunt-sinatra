@@ -1,4 +1,5 @@
 # grunt-sinatra
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vjustov/grunt-sinatra?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Control your sinatra server via Grunt
 
